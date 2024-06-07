@@ -15,10 +15,11 @@
 In Constants class , initialize filePath and pathPieces to the path of the .torrent file and the folder where you would like to download its pieces.
 
 ## Working of the Project
-![image](https://github.com/priyanshu-2612/TorrentMaster-A-BitTorrent-Implementation/assets/136080688/977193fa-f7fd-4570-a8e8-5c50dbd2fe21)
-![image](https://github.com/priyanshu-2612/TorrentMaster-A-BitTorrent-Implementation/assets/136080688/0bb54e3d-26bc-4cd0-a113-ad0a417907b1)
-![image](https://github.com/priyanshu-2612/TorrentMaster-A-BitTorrent-Implementation/assets/136080688/8c5c6647-9c41-46d1-bde6-ad931aa7f0a7)
-![image](https://github.com/priyanshu-2612/TorrentMaster-A-BitTorrent-Implementation/assets/136080688/aca3c6e7-dfe9-45cf-b778-9c214599969a)
+<img width="960" alt="dss1" src="https://github.com/priyanshu-2612/Torrent-Master/assets/136080688/f377b981-a4f6-47f8-8b7a-27200eec07ac">
+<img width="960" alt="dss2" src="https://github.com/priyanshu-2612/Torrent-Master/assets/136080688/e93fe92f-2dd9-4292-8db9-7ca1631edebd">
+<img width="960" alt="dss3" src="https://github.com/priyanshu-2612/Torrent-Master/assets/136080688/e6270929-d6de-4d22-9a90-59c3e286bd42">
+<img width="960" alt="dss4" src="https://github.com/priyanshu-2612/Torrent-Master/assets/136080688/5fbfd3e4-4aa5-4381-9fdf-5badb18b85ef">
+<img width="960" alt="dss5" src="https://github.com/priyanshu-2612/Torrent-Master/assets/136080688/06897b51-6f16-47bc-9f95-7d7d58d69793">
 
 
 ## Contact
