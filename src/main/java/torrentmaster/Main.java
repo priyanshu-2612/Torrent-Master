@@ -28,7 +28,7 @@ public class Main {
     public static void Torrent_Master() throws IOException {
 
 
-        System.out.print(Constants.ANSI_CYAN + Constants.banner);
+        System.out.print(Constants.ANSI_BLUE + Constants.banner);
         System.out.println(Constants.instructions + Constants.ANSI_RESET);
 
         File file = new File((Constants.filePath));
@@ -38,7 +38,7 @@ public class Main {
         TorrentProcessor p = new TorrentProcessor(torrent);
         p.addFile(file);
         torrent = p.getTorrentFile(p.parseTorrent(file));
-        System.out.println("Info Hash : " + torrent.info_hash_as_hex + "\n");
+        System.out.println( "Info Hash : "+ torrent.info_hash_as_hex + "\n");
         System.out.println("Total length of torrent : " + torrent.total_length + " bytes");
         System.out.println("SHA1 hash of Piece values " + torrent.piece_hash_values_as_hex + "\n");
 
@@ -56,7 +56,7 @@ public class Main {
             map = (TreeMap<String, Object>) ben.parse();
             System.out.println("Torrent File : " + map + "\n");
             TreeMap<String, Object> info = (TreeMap<String, Object>) map.get("info");
-            System.out.println("Info Directory : " + map.get("info") + "\n");
+            System.out.println("Info Directory : "+ map.get("info") + "\n");
 
         } catch (Exception e) {
             System.out.println(e);

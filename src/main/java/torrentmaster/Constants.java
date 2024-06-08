@@ -21,7 +21,7 @@ public abstract class Constants {
                     "                                                                     \n" +
                     "                                                                     \n"
 ;
-    final static String instructions ="-------------------------------------------Disclaimer-------------------------------------------\n" +
+    final static String instructions ="Disclaimer : \n\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n" +
             "\n" +
             "TorrentMaster is developed solely for educational and academic purposes as part of my personal learning and skill development. The primary objective of this project is to learn and demonstrate the concepts of programming, software development, and networking protocols, specifically the BitTorrent protocol.\n" +
             "\n" +
@@ -33,7 +33,7 @@ public abstract class Constants {
             "\n" +
             "By using this software, you agree to the terms and conditions outlined in this disclaimer.\n" +
             "\n" +
-            "------------------------------------------------------------------------------------------------\n";
+            "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
 
     public static String pathPieces = "C:/Custom_Bittorrent_Client/Torrent Master/Pieces";
     public static String filePath = "C:/Custom_Bittorrent_Client/Torrent Master/src/test/java/resources/KNOPPIX_V9.1DVD-2021-01-25-EN.torrent";
