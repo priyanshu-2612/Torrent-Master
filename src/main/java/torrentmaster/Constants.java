@@ -35,7 +35,7 @@ public abstract class Constants {
             "\n" +
             "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n";
 
-    public static String pathPieces = "C:/Custom_Bittorrent_Client/Torrent Master/Pieces";
-    public static String filePath = "C:/Custom_Bittorrent_Client/Torrent Master/src/test/java/resources/KNOPPIX_V9.1DVD-2021-01-25-EN.torrent";
+    public static String pathPieces = "./Pieces/";
+    public static String filePath = "./src/test/java/resources/KNOPPIX_V9.1DVD-2021-01-25-EN.torrent";
 
 }
